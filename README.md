@@ -53,6 +53,14 @@ az deployment group create \
   --template-file infrastructure/main.bicep
 ```
 
+## Documentation
+
+- [Design decisions](docs/design-decisions.md)
+- [Network test plan](docs/test-plan.md)
+- [Troubleshooting guide](docs/troubleshooting.md)
+- [Future enterprise pattern](docs/future-enterprise-pattern.md)
+- [Technical references](docs/references.md)
+
 ## Skills demonstrated
 
 **Azure Networking · VNets · Subnets · NSGs · Peering · Bicep · Network Segmentation · Cloud Architecture**
