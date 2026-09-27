@@ -1,5 +1,7 @@
 # Azure Enterprise Network Lab
 
+![Bicep validation](https://github.com/WaleedWTR/azure-enterprise-network-lab/actions/workflows/bicep.yml/badge.svg)
+
 A hub-and-spoke Azure networking portfolio lab demonstrating segmentation, Network Security Groups and bidirectional VNet peering.
 
 > **Portfolio note:** This is a synthetic lab design. Address ranges and naming are illustrative.
